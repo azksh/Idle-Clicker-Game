@@ -1,0 +1,117 @@
+
+#menu {
+    margin-top: 30px;
+}
+#menu ul {
+    margin: 0;
+    padding: 0;
+}
+
+#menu ul li {
+    list-style: none;
+    padding: 0;
+    display: inline-block;
+    margin-left: 20px;
+    padding-top:50px;
+    padding-left: 30px;
+}
+
+#menu ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    padding: 30px 0;
+    padding-bottom: 10px;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+
+#menu ul li a:hover, #menu ul li a.active {
+    border-bottom: 5px solid;
+    color: rgb(249, 103, 127);
+}
+
+h1 {
+    font-size: 36px;
+}
+
+.tofu {
+    background-image: url('foto jualan');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+#money {
+    font-weight: bold;
+}
+#total {
+    font-weight: bold;
+}
+#clickers {
+    font-weight: bold;
+}
+#cone{
+    width: 230px;
+    margin-top: 10px;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    background-color:pink;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#cup {
+    width: 230px;
+    margin-top: 10px;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    background-color:grey;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#mangkok {
+    width: 230px;
+    margin-top: 10px;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+   background-color:grey;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#buy-clicker {
+    margin-top: 10px;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    background-color: #4CAF50;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#cabang {
+    margin-top: 10px;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    background-color: #4CAF50;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#buy-clicker {
+    position: relative;
+    top: -120px;
+    right:-420px;
+  }
+  
+  
